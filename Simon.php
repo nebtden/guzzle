@@ -1,5 +1,5 @@
 <?php
-namespace GuzzleHttp;
+namespace nebtden;
 /**
  * Created by PhpStorm.
  * User: Administrator

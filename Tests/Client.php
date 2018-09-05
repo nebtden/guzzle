@@ -1,6 +1,6 @@
 <?php
 
-namespace GuzzleHttp\Tests;
+namespace nebtden\Tests;
 /**
  * Created by PhpStorm.
  * User: Administrator
